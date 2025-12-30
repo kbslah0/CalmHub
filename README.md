@@ -1,4 +1,4 @@
-# 🎯 Calm Hub - Ultimate Gaming Assistant (v5)
+# 🎯 Calm Hub - Ultimate Gaming Assistant (v6.5)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
